@@ -12,7 +12,7 @@ import {
 export default function Home() {
   return (
     <main className="ml-10 mt-10 flex gap-10">
-      <Button>Hello</Button>
+      {/* <Button>Hello</Button>
       <Button variant="destructive">Delete</Button>
       <Button variant="destructive" className='px-10'>Delete</Button>
       <Dialog>
@@ -26,7 +26,7 @@ export default function Home() {
             </DialogDescription>
           </DialogHeader>
         </DialogContent>
-      </Dialog>
+      </Dialog> */}
     </main>
   )
 }
